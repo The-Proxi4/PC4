@@ -1,5 +1,5 @@
-# Usa la imagen oficial de .NET SDK para la construcción de la aplicación
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+# Usa la imagen oficial de .NET SDK para la construcción de la aplicación (ahora con .NET 9.0)
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 
 # Establece el directorio de trabajo
 WORKDIR /app
@@ -15,7 +15,7 @@ COPY . ./
 RUN dotnet publish -c Release -o /app/publish
 
 # Usa una imagen más ligera para la ejecución (Runtime)
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
 WORKDIR /app
 EXPOSE 80
 
