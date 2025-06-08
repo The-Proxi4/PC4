@@ -1,9 +1,10 @@
 using EcommerceML.ML;
 using EcommerceML.Models;
 using Microsoft.AspNetCore.Mvc;
-//esto es la parte del sentimiento
+
 namespace EcommerceML.Controllers
 {
+    //esto es el controller
     public class SentimentController : Controller
     {
         [HttpGet]
@@ -23,7 +24,7 @@ namespace EcommerceML.Controllers
 
             var prediction = SentimentModel.Predict(input.Opinion);
 
-            ViewBag.Prediction = prediction.Prediction ? "Positivo" : "Negativo";
+            ViewBag.Prediction = prediction.Prediction ? "Positivo :)" : "Negativo :(";
             ViewBag.Score = prediction.Score;
 
             return View("Index");
