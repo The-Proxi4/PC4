@@ -1,0 +1,184 @@
+@model EcommerceML.Models.RecommendationInputModel
+
+@{
+    ViewData["Title"] = "Recomendación de Productos";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+
+    <!-- Incluir Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Incluir FontAwesome para los iconos -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+    <!-- Estilos personalizados -->
+    <style>
+        body {
+            background-color: #f0f4f8; /* Fondo suave y moderno */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin-top: 50px;
+            padding: 30px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease-in-out;
+        }
+
+        .container:hover {
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2); /* Aumenta la sombra al pasar el ratón */
+        }
+
+        .form-group label {
+            font-weight: bold;
+            color: #7a9eec; /* Periwinkle color */
+        }
+
+        .form-control {
+            border-radius: 10px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.12), inset 0 1px 2px rgba(0, 0, 0, 0.24);
+            font-size: 16px;
+            transition: border 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #7a9eec; /* Periwinkle color for focus state */
+            box-shadow: 0 0 5px rgba(122, 158, 236, 0.5);
+        }
+
+        .btn-primary {
+            background-color: #7a9eec; /* Periwinkle for button */
+            border: none;
+            border-radius: 10px;
+            padding: 12px 20px;
+            font-size: 18px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .btn-primary:hover {
+            background-color: #6a88d2; /* Darker Periwinkle for hover */
+            transform: scale(1.05);
+        }
+
+        .result-container {
+            background-color: #e9f7fe; /* Light periwinkle background for the results */
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .result-container h4 {
+            font-weight: bold;
+            color: #4e4d63; /* Darker gray for the result header */
+        }
+
+        .result-container ul {
+            font-size: 18px;
+            color: #333;
+            padding-left: 20px;
+        }
+
+        .result-container li {
+            margin-bottom: 10px;
+        }
+
+        .alert-success, .alert-danger {
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .alert-success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+
+        .alert-danger {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+
+        .text-danger {
+            font-weight: bold;
+            color: #e74c3c; /* Red color for validation error */
+        }
+
+        .input-group {
+            margin-top: 10px;
+        }
+
+        /* Estilo para el textarea */
+        textarea {
+            resize: none;
+        }
+
+        /* Título de color periwinkle */
+        h2 {
+            color: #7a9eec; /* Periwinkle color for the title */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 class="text-center">@ViewData["Title"]</h2>
+
+        <!-- Mensaje de éxito o error -->
+        @if (ViewBag.Prediction != null)
+        {
+            <div class="alert alert-success">
+                <i class="fas fa-check-circle"></i> <strong>¡Recomendaciones obtenidas con éxito!</strong>
+            </div>
+        }
+
+        @if (!string.IsNullOrWhiteSpace(ViewBag.ErrorMessage))
+        {
+            <div class="alert alert-danger">
+                <i class="fas fa-exclamation-circle"></i> <strong>@ViewBag.ErrorMessage</strong>
+            </div>
+        }
+
+        <!-- Formulario para ingresar UserId -->
+        <form asp-action="GetRecommendations" method="post">
+            <div class="form-group">
+                <label for="UserId">Ingresa el UserId del usuario:</label>
+                <input asp-for="UserId" type="number" class="form-control" min="1" placeholder="Ej. 123" required />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 mt-4">Obtener Recomendaciones</button>
+        </form>
+
+        <!-- Resultados de productos recomendados -->
+        @if (ViewBag.RecommendedProducts != null)
+        {
+            <div class="result-container">
+                <h4>Productos recomendados para el usuario @ViewBag.UserId:</h4>
+                <ul>
+                    @foreach (var productId in (List<uint>)ViewBag.RecommendedProducts)
+                    {
+                        <li><strong>Producto ID:</strong> @productId</li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+
+    <!-- Incluir Bootstrap 5 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>

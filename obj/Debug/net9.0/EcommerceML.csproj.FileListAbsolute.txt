@@ -1,0 +1,269 @@
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\appsettings.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.staticwebassets.runtime.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.staticwebassets.endpoints.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.exe
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.deps.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.runtimeconfig.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\EcommerceML.pdb
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Core.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Data.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.PCA.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Transforms.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.CpuMath.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.DataView.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Recommender.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\System.Numerics.Tensors.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so.dbg
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib.dwarf
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-arm64\native\MatrixFactorizationNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\bin\Debug\net9.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.csproj.AssemblyReference.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.AssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.RazorAssemblyInfo.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.RazorAssemblyInfo.cs
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\scopedcss\bundle\EcommerceML.styles.css
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\scopedcss\projectbundle\EcommerceML.bundle.scp.css
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\saxkng4hig-b9sayid5wm.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\il2y2bjwb0-61n19gt1b8.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\8p4gh3ec1s-xtxxf3hu2r.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\fwzvd557yu-bqjiyaj88i.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\n0a0rn64jd-c2jlpeoesf.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\v5gst0g1pf-erw9l3u2r3.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\c4hrjdamuu-aexeepp0ev.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ws49mpwqax-d7shbmvgxk.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\68su2blh2n-ausgxo2sd3.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\qshd7ikj43-k8d9w2qqmf.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\kxagz2oiwz-cosvhxvwiu.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\5g1j81amub-ub07r2b239.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\z0siwon41n-fvhpjtyr6v.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\k5qrs2fimv-b7pk76d08c.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\c0zxoigkem-fsbi9cje9m.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\9f6ijgtfis-rzd6atqjts.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\esjeklk9bh-ee0r1s7dh0.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\0sdosloduz-dxx9fxp4il.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\0gd5u686bg-jd9uben2k1.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\hpj53txvpn-khv3u5hwcm.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\aphz36omah-r4e9w2rdcm.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\yn5o63uq9e-lcd1t2u6c8.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\v6akrt5esj-c2oey78nd0.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\zxb43pw2lu-tdbxkamptv.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\oykr1f28t5-j5mq2jizvt.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\6vayb1j2k2-06098lyss8.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ivguuhij60-nvvlpmu67g.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ozjr7i5dtm-s35ty4nyc5.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\uvcsaz263i-pj5nd1wqec.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\7t7md7fw5p-46ein0sx1k.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ubnvtlsfgb-v0zj4ognzu.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\8uzb295seo-37tfw0ft22.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\xpgt8llb8f-hrwsygsryq.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\fev80opjs2-pk9g2wxc8p.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\i54fgjnypp-ft3s53vfgj.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\k1kmd6htgl-6cfz1n2cew.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\0nj1oguh3x-6pdc2jztkx.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\e5rr1nj3uv-493y06b0oq.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\9v1g6i06pf-iovd86k7lj.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\2wlznasyqq-vr1egmr9el.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\lg1o1r0ixq-kbrnm935zg.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\oxdrsubo16-jj8uyg4cgr.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\vzbd5qyukt-y7v9cxd14o.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\5n2u6249nl-notf2xhcfb.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\mddp2vbfrp-h1s4sie4z3.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ok0lh5vvha-63fj8s7r0e.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\5ahpd1zo02-0j3bgjxly4.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\s2072h9kry-47otxtyo56.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\ps05wxcn5d-4v8eqarkd7.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\h8k16bjx95-356vix0kms.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\g5dq71kgh4-83jwlth58m.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\lnq9fskndq-mrlpezrjn3.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\x7zgw7i34b-lzl9nlhx6b.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\iaetiv96lk-ag7o75518u.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\9a92dqk2cv-x0q3zqp4vz.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\0f83ojcftl-0i3buxo5is.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\6k07ocgr8d-o1o13a6vjx.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\dn9b1c4ljn-ttgo8qnofa.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\vsit4o37ga-2z0ns9nrw6.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\6lbf31bit6-muycvpuwrr.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\35lpd0h2m6-87fc7y1x7t.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\yyec8esd2y-mlv21k5csn.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\x8rr3fsfgk-31wuha4lfs.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\compressed\9vtsv0o0dx-31wuha4lfs.gz
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\Ecommerc.648F1D0D.Up2Date
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\refint\EcommerceML.dll
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.pdb
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\EcommerceML.genruntimeconfig.cache
+C:\Users\GABRIEL\Desktop\pc4_gabo\EcommerceML\obj\Debug\net9.0\ref\EcommerceML.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\appsettings.Development.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\appsettings.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.staticwebassets.runtime.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.staticwebassets.endpoints.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.exe
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.deps.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.runtimeconfig.json
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\EcommerceML.pdb
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Core.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Data.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.KMeansClustering.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.PCA.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.StandardTrainers.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Transforms.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.CpuMath.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.DataView.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Microsoft.ML.Recommender.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\Newtonsoft.Json.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\System.CodeDom.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\System.Numerics.Tensors.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-arm64\native\LdaNative.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-x64\native\LdaNative.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-x86\native\LdaNative.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so.dbg
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib.dwarf
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib.dwarf
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-arm64\native\MatrixFactorizationNative.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+X:\practicando ando\EcommerceML\bin\Debug\net9.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.csproj.AssemblyReference.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.GeneratedMSBuildEditorConfig.editorconfig
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.AssemblyInfoInputs.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.AssemblyInfo.cs
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.csproj.CoreCompileInputs.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.MvcApplicationPartsAssemblyInfo.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.RazorAssemblyInfo.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.RazorAssemblyInfo.cs
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\scopedcss\bundle\EcommerceML.styles.css
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\scopedcss\projectbundle\EcommerceML.bundle.scp.css
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\saxkng4hig-b9sayid5wm.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\il2y2bjwb0-61n19gt1b8.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\8p4gh3ec1s-xtxxf3hu2r.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\fwzvd557yu-bqjiyaj88i.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\n0a0rn64jd-c2jlpeoesf.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\v5gst0g1pf-erw9l3u2r3.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\c4hrjdamuu-aexeepp0ev.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ws49mpwqax-d7shbmvgxk.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\68su2blh2n-ausgxo2sd3.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\qshd7ikj43-k8d9w2qqmf.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\kxagz2oiwz-cosvhxvwiu.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\5g1j81amub-ub07r2b239.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\z0siwon41n-fvhpjtyr6v.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\k5qrs2fimv-b7pk76d08c.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\c0zxoigkem-fsbi9cje9m.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\9f6ijgtfis-rzd6atqjts.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\esjeklk9bh-ee0r1s7dh0.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\0sdosloduz-dxx9fxp4il.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\0gd5u686bg-jd9uben2k1.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\hpj53txvpn-khv3u5hwcm.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\aphz36omah-r4e9w2rdcm.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\yn5o63uq9e-lcd1t2u6c8.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\v6akrt5esj-c2oey78nd0.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\zxb43pw2lu-tdbxkamptv.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\oykr1f28t5-j5mq2jizvt.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\6vayb1j2k2-06098lyss8.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ivguuhij60-nvvlpmu67g.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ozjr7i5dtm-s35ty4nyc5.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\uvcsaz263i-pj5nd1wqec.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\7t7md7fw5p-46ein0sx1k.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ubnvtlsfgb-v0zj4ognzu.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\8uzb295seo-37tfw0ft22.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\xpgt8llb8f-hrwsygsryq.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\fev80opjs2-pk9g2wxc8p.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\i54fgjnypp-ft3s53vfgj.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\k1kmd6htgl-6cfz1n2cew.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\0nj1oguh3x-6pdc2jztkx.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\e5rr1nj3uv-493y06b0oq.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\9v1g6i06pf-iovd86k7lj.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\2wlznasyqq-vr1egmr9el.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\lg1o1r0ixq-kbrnm935zg.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\oxdrsubo16-jj8uyg4cgr.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\vzbd5qyukt-y7v9cxd14o.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\5n2u6249nl-notf2xhcfb.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\mddp2vbfrp-h1s4sie4z3.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ok0lh5vvha-63fj8s7r0e.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\5ahpd1zo02-0j3bgjxly4.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\s2072h9kry-47otxtyo56.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\ps05wxcn5d-4v8eqarkd7.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\h8k16bjx95-356vix0kms.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\g5dq71kgh4-83jwlth58m.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\lnq9fskndq-mrlpezrjn3.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\x7zgw7i34b-lzl9nlhx6b.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\iaetiv96lk-ag7o75518u.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\9a92dqk2cv-x0q3zqp4vz.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\0f83ojcftl-0i3buxo5is.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\6k07ocgr8d-o1o13a6vjx.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\dn9b1c4ljn-ttgo8qnofa.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\vsit4o37ga-2z0ns9nrw6.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\6lbf31bit6-muycvpuwrr.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\35lpd0h2m6-87fc7y1x7t.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\yyec8esd2y-mlv21k5csn.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\x8rr3fsfgk-31wuha4lfs.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\compressed\9vtsv0o0dx-31wuha4lfs.gz
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets.build.json
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets.development.json
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceML.Microsoft.AspNetCore.StaticWebAssets.props
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceML.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceML.props
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceML.props
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceML.props
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\staticwebassets.pack.json
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\Ecommerc.648F1D0D.Up2Date
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.dll
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\refint\EcommerceML.dll
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.pdb
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\EcommerceML.genruntimeconfig.cache
+X:\practicando ando\EcommerceML\obj\Debug\net9.0\ref\EcommerceML.dll
