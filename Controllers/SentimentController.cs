@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceML.Controllers
 {
+    //esto es el controller
     public class SentimentController : Controller
     {
         [HttpGet]
